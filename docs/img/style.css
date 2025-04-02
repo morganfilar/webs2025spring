@@ -1,0 +1,53 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+h1 {
+    text-align: center;
+    color: #ff6f61;
+}
+
+h2 {
+    color: #ff9a8b;
+    text-align: center;
+    border-bottom: 2px solid #ff6f61;
+    padding-bottom: 5px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+/* Paragraph Styles */
+p {
+    text-align: center;
+    line-height: 1.6;
+    font-size: 18px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+/* Image Styling */
+img {
+    display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Email Styling */
+p a {
+    color: #ff6f61;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
